@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "45254268235",
+    "firebase_url": "https://nss-bvcoe-f0edc.firebaseio.com",
+    "project_id": "nss-bvcoe-f0edc",
+    "storage_bucket": "nss-bvcoe-f0edc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45254268235:android:2f6909a2694bd8ae",
+        "android_client_info": {
+          "package_name": "com.github.nssbvcoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45254268235-fo2u6jtkvqv2lf3vptf1690tpcg5ic91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzNVbyu2yuLfXUgS1XA97UHYmvSJOP3Aw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
