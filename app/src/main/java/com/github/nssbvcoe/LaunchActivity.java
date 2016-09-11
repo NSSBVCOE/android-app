@@ -25,6 +25,6 @@ public class LaunchActivity extends AppCompatActivity {
                 // close this activity
                 finish();
             }
-        }, 10*1000);
+        }, 3*1000);
     }
 }
