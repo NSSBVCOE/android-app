@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
+import android.widget.TextView;
 
 public class LaunchActivity extends AppCompatActivity {
 
@@ -24,6 +25,6 @@ public class LaunchActivity extends AppCompatActivity {
                 // close this activity
                 finish();
             }
-        }, 1*1000);
+        }, 3*1000);
     }
 }

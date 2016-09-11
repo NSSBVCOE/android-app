@@ -10,4 +10,7 @@
     <string name="title_activity_gallery">NSS BVCOE GALLERY</string>
     <string name="title_activity_feedback">NSS BVCOE</string>
     <string name="title_activity_contact_us">NSS BVCOE</string>
+
+    <string name="authors_title"> Handcrafted with </string>
+    <string name="authors"> <a href="http://github.com/alphasniper">Akshit</a> AND <a href="http://github.com/poush">Piyush</a></string>
 </resources>
